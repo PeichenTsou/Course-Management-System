@@ -1,0 +1,25 @@
+body {
+    font-family: 'Baloo Chettan 2', cursive;
+  }
+
+#banner {
+    background-image: url('../picture/Registration_banner.jpg');
+    background-size: 100% auto;
+    }
+
+#banner_textblock {
+    background-color: rgba(255, 255, 255, 0.5);;
+    padding: 20px;
+}
+
+#banner h1, #banner p {
+    text-align: center;
+}
+
+.banner_button {
+    margin: 0px 5px;
+}
+
+.forms {
+    padding: 0px 20%;
+}

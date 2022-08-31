@@ -1,0 +1,23 @@
+body {
+    font-family: 'Baloo Chettan 2', cursive;
+  }
+
+#banner {
+    background-image: url('../picture/homepage_university.jpg');
+    background-size: 100% auto;
+    padding: 50px 0px;
+}
+
+#banner_textblock {
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 50px;
+}
+
+#banner h1, #banner p {
+    text-align: center;
+}
+
+.card_img {
+    height: 150px;
+    overflow: hidden;
+}
